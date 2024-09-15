@@ -32,12 +32,5 @@ Software Engineer
 <p align="left"> <a href="https://www.github.com/TheodoreEpitech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/theodore-magna/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Stats
-<details>
-  <summary>Expand to see my stats !</summary>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheodoreEpitech&label=Profile%20views&color=0e75b6&style=flat" alt="TheodoreEpitech" /> </p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheodoreEpitech&count_private=true&show_icons=true&locale=en&layout=compact" alt="TheodoreEpitech" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheodoreEpitech&count_private=true&show_icons=true&locale=en" alt="TheodoreEpitech" /></p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheodoreEpitech&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
-
-</details>
 
