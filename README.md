@@ -38,7 +38,6 @@ Software Engineer
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheodoreEpitech&count_private=true&show_icons=true&locale=en&layout=compact" alt="TheodoreEpitech" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheodoreEpitech&count_private=true&show_icons=true&locale=en" alt="TheodoreEpitech" /></p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheodoreEpitech&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheodoreEpitech" alt="TheodoreEpitech" /></a> </p>
 
 </details>
 
