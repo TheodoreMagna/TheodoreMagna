@@ -4,6 +4,9 @@ Hi 👋 My name is Théodore
 Software Engineer
 -----------------
 
+### Portfolio
+https://theodoremagna.github.io/
+
 ### Skills
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
